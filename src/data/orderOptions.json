@@ -1,0 +1,85 @@
+{
+  "Box Construction": [
+    {
+      "name": "APC",
+      "upcharge": 0.2,
+      "notes": "12% charge in premier"
+    },
+    {
+      "name": "Standard",
+      "upcharge": 0.0,
+      "notes": null
+    }
+  ],
+  "Wood Species": [
+    {
+      "name": "Maple",
+      "upcharge": 0.0,
+      "notes": null
+    },
+    {
+      "name": "Oak",
+      "upcharge": 0.0,
+      "notes": null
+    },
+    {
+      "name": "Cherry",
+      "upcharge": 0.05,
+      "notes": null
+    },
+    {
+      "name": "MDF",
+      "upcharge": 0.0,
+      "notes": "If MDF, there is no paint upcharge"
+    },
+    {
+      "name": "Hickory",
+      "upcharge": 0.0,
+      "notes": null
+    },
+    {
+      "name": "Character Maple",
+      "upcharge": 0.05,
+      "notes": null
+    },
+    {
+      "name": "Character Cherry",
+      "upcharge": 0.0,
+      "notes": null
+    }
+],
+"Finish Type": [
+    {
+      "name": "Stain",
+      "upcharge": 0.0,
+      "notes": null
+    },
+    {
+      "name": "Paint",
+      "upcharge": 0.15,
+      "notes": null
+    },
+    {
+      "name": "Stain W/ Glaze",
+      "upcharge": 0.12,
+      "notes": null
+    },
+    {
+      "name": "Paint W/ Glaze",
+      "upcharge": 0.15,
+      "notes": null
+    }
+  ],
+  "Inset": [
+    {
+      "name": "Yes",
+      "upcharge": 0.15,
+      "notes": null
+    },
+    {
+      "name": "No",
+      "upcharge": 0.0,
+      "notes": null
+    }
+  ]
+}

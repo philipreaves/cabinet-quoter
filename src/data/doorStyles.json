@@ -1,0 +1,606 @@
+[
+  {
+    "doorStyle": "Arlington Square",
+    "priceColumn": "1",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Hancock",
+    "priceColumn": "1",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Alto (S)",
+    "priceColumn": "2",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Franklin",
+    "priceColumn": "2",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Preston (2)",
+    "priceColumn": "2",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Bishop (S)",
+    "priceColumn": "3",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Camden Square",
+    "priceColumn": "3",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Harmony",
+    "priceColumn": "3",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Millbrook Square",
+    "priceColumn": "3",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Preston (3)",
+    "priceColumn": "3",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Urban",
+    "priceColumn": "3",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Harvest Square",
+    "priceColumn": "4",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Prairie (S)",
+    "priceColumn": "4",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Bedford Square",
+    "priceColumn": "5",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Concord",
+    "priceColumn": "5",
+    "standardWood": "Maple",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Essex",
+    "priceColumn": "6",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Everett",
+    "priceColumn": "6",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Langley",
+    "priceColumn": "6",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Alto (P)",
+    "priceColumn": "7",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Bishop (P)",
+    "priceColumn": "7",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Florence",
+    "priceColumn": "7",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Muriel",
+    "priceColumn": "7",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Saybrook",
+    "priceColumn": "7",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Trestle",
+    "priceColumn": "7",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Amelia",
+    "priceColumn": "8",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Belmont",
+    "priceColumn": "8",
+    "standardWood": "Maple",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Galena Square",
+    "priceColumn": "8",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory",
+      "MDF"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Hartford",
+    "priceColumn": "8",
+    "standardWood": "MDF",
+    "alternateWoods": [],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Prairie (P)",
+    "priceColumn": "8",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Breckenridge",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Lexington",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Milan",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Ridgebrook",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Rose Hall Square",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Sandia",
+    "priceColumn": "9",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Beaumont",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Collins",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Davenport Square",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Hanover",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Harbour",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Henlow Square",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Hickory"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Marlow",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Napa",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "New Haven",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Seville Square",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple"
+    ],
+    "insetAvailable": true,
+    "insetUpcharge": 0.15,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Sonoma",
+    "priceColumn": "10",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Wyatt",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "Character Cherry",
+      "Character Maple",
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Antigua",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Chelsea II",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak",
+      "MDF"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": false
+  },
+  {
+    "doorStyle": "Melrose",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Monterey",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  },
+  {
+    "doorStyle": "Savannah",
+    "priceColumn": "11",
+    "standardWood": "Maple",
+    "alternateWoods": [
+      "Cherry",
+      "Oak"
+    ],
+    "insetAvailable": false,
+    "insetUpcharge": null,
+    "cdfStandard": true
+  }
+]
