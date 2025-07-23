@@ -3,11 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://philipreaves.github.io/cabinet-quoter/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "html2pdf.js": "^0.10.3",
